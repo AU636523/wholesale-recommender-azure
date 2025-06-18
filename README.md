@@ -2,12 +2,9 @@
 
 An end-to-end recommendation engine built on the Azure stack, simulating a B2B use case. It includes customer-specific and item-based recommendations, a Dash-powered internal dashboard.
 
-<<<<<<< HEAD
 ## Tech Stack
 Implemented with Azure Databricks native tools, such as PySpark
 =======
-To make it as realistic as possible, I have asked ChatGPT 4o to act as my product owner and provide me with user stories. From these I have listed features I wish to include in a MVP.
->>>>>>> 57fc06cb21112f6624777dc874ebd711ea11832f
 
 ## 📁 Project Structure
 
