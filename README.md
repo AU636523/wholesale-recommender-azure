@@ -2,8 +2,6 @@
 
 An end-to-end recommendation engine built on the Azure stack, simulating a B2B use case. It includes customer-specific and item-based recommendations, a Dash-powered internal dashboard.
 
-=======
-
 ## 📁 Project Structure
 
 ```bash
